@@ -67,3 +67,6 @@ print(new_dataFrame.T)
 # CONVERT TO NUMPY ARRAY
 numpy_arr = new_dataFrame.to_numpy()
 print(numpy_arr)
+
+fdsfds = np.arange(9)
+print(fdsfds)
